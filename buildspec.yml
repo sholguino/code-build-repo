@@ -16,7 +16,7 @@ phases:
             - echo "Installation Process Completed"
     pre_build:
         commands: 
-            - echo "This is the start of Pre-Build phase afasdfsf"
+            - echo "This is the start of Pre-Build phase"
             - echo "Pre-Build phase is now completed"
     build:
         commands:
